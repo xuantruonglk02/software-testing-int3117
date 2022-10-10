@@ -1,0 +1,8 @@
+.vscode
+
+*.exe
+*.docx
+*.doc
+*.pdf
+
+*.tmp
